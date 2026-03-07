@@ -1,14 +1,14 @@
-# 👋 Hi, I'm Marwa 
+## 👋 Hi, I'm Marwa 
 
-🎓 Systems Design Engineering student at the **University of Waterloo**  
-💡 Interested in **software development, robotics and building technology that improves everyday life**  
+🎓 Systems Design Engineering student at the University of Waterloo
+💡 Interested in software development, robotics and building technology that improves everyday life
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marwazaryab)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mzzaryab@uwaterloo.ca)
 
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -23,11 +23,3 @@
 ### Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=marwazaryab&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=marwazaryab&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marwazaryab&theme=dark&hide_border=false&layout=compact)
