@@ -1,7 +1,6 @@
 ## 👋 Hi, I'm Marwa 
 
-🎓 Systems Design Engineering student at the University of Waterloo
-💡 Interested in software development, robotics and building technology that improves everyday life
+🎓 Systems Design Engineering student at the University of Waterloo interested in software development and building technology that improves everyday life :)
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marwazaryab)  
