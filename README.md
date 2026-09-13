@@ -2,6 +2,8 @@
 
 🎓 Systems Design Engineering student at the University of Waterloo interested in software development and building technology that improves everyday life :)
 
+Visit my Personal Website: marwazaryab.com
+
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marwazaryab)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mzzaryab@uwaterloo.ca)
